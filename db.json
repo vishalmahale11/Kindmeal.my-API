@@ -1,0 +1,1803 @@
+{
+    "mealDeals": [
+      {
+        "id": 1,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Yishensu Groceries Ipoh —  Ipoh, Perak",
+        "subDesc": "Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! We develop our own exclus..",
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 2,
+        "image": "https://www.kindmeal.my/photos/deal/6/649-3919-l.jpg",
+        "desc": "Vegelab —  Cheras, Kuala Lumpur",
+        "subDesc": "Experience our delectable selection of fusion Western cuisine, crafted with heart to promote a healthy and compassionate eating li..",
+        "expiray": 6,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 3,
+        "image": "https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+        "desc": "Hijau —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrac..",
+        "expiray": 8,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id":4,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Jamaica Blue —  Shah Alam & 1 Branch",
+        "subDesc": "Serving classic dishes with a contemporary twist, using the freshest and seasonal ingredients. Select from any of our meat-free i..",
+        "expiray": 12,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 5,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 6,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 7,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 8,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 9,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 10,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 11,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 12,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 13,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 14,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 15,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 16,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 17,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 18,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 19,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 20,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 21,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 22,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Yishensu Groceries Ipoh —  Ipoh, Perak",
+        "subDesc": "Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! We develop our own exclus..",
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 23,
+        "image": "https://www.kindmeal.my/photos/deal/6/649-3919-l.jpg",
+        "desc": "Vegelab —  Cheras, Kuala Lumpur",
+        "subDesc": "Experience our delectable selection of fusion Western cuisine, crafted with heart to promote a healthy and compassionate eating li..",
+        "expiray": 6,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 24,
+        "image": "https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+        "desc": "Hijau —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrac..",
+        "expiray": 8,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id":25,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Jamaica Blue —  Shah Alam & 1 Branch",
+        "subDesc": "Serving classic dishes with a contemporary twist, using the freshest and seasonal ingredients. Select from any of our meat-free i..",
+        "expiray": 12,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 26,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 27,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 28,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 29,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 30,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 31,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 32,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 33,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 34,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 35,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 36,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 37,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 38,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 39,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 40,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 41,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 42,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 43,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Yishensu Groceries Ipoh —  Ipoh, Perak",
+        "subDesc": "Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! We develop our own exclus..",
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 44,
+        "image": "https://www.kindmeal.my/photos/deal/6/649-3919-l.jpg",
+        "desc": "Vegelab —  Cheras, Kuala Lumpur",
+        "subDesc": "Experience our delectable selection of fusion Western cuisine, crafted with heart to promote a healthy and compassionate eating li..",
+        "expiray": 6,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 45,
+        "image": "https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+        "desc": "Hijau —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrac..",
+        "expiray": 8,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id":46,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Jamaica Blue —  Shah Alam & 1 Branch",
+        "subDesc": "Serving classic dishes with a contemporary twist, using the freshest and seasonal ingredients. Select from any of our meat-free i..",
+        "expiray": 12,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 47,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 48,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 49,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 50,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 51,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 52,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 53,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 54,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 55,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 56,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 57,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 58,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 59,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 60,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 61,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 62,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 63,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 64,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Yishensu Groceries Ipoh —  Ipoh, Perak",
+        "subDesc": "Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! We develop our own exclus..",
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 65,
+        "image": "https://www.kindmeal.my/photos/deal/6/649-3919-l.jpg",
+        "desc": "Vegelab —  Cheras, Kuala Lumpur",
+        "subDesc": "Experience our delectable selection of fusion Western cuisine, crafted with heart to promote a healthy and compassionate eating li..",
+        "expiray": 6,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 66,
+        "image": "https://www.kindmeal.my/photos/deal/7/712-5119-l.jpg",
+        "desc": "Hijau —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge in Malay-Indo fusion cuisine, a plant-based comfort food and healthy pleasure! Hijau is your go-to, where you can embrac..",
+        "expiray": 8,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id":67,
+        "image": "https://www.kindmeal.my/photos/deal/7/720-5195-l.jpg",
+        "desc": "Jamaica Blue —  Shah Alam & 1 Branch",
+        "subDesc": "Serving classic dishes with a contemporary twist, using the freshest and seasonal ingredients. Select from any of our meat-free i..",
+        "expiray": 12,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 68,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 69,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 70,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 71,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 72,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 73,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 74,
+        "image": "https://www.kindmeal.my/photos/deal/3/383-1189-l.jpghttps://www.kindmeal.my/photos/deal/3/383-1189-l.jpg",
+        "desc": "Dining Bowl —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Dine in this authentic cozy Chinese environment with any items from the menu, made with fresh and quality ingredients, in an envir..",
+        "expiray": 10,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 75,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 76,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 77,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 78,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 79,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 80,
+        "image": "https://www.kindmeal.my/photos/deal/6/610-3386-l.jpg",
+        "desc": "Cameleon Vegetarian Restaurant —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Indulge yourself in healthy, authentic Asian cuisines within a traditional dinning environment. Enjoy any items from our ala cart..",
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },{
+        "id": 81,
+        "image": "https://www.kindmeal.my/photos/deal/4/457-2109-l.jpg",
+        "desc": "The Black Cat Cafe —  Kuala Lumpur, Wilayah Persekutuan",
+        "subDesc": "Western and Asian cuisine, all prepared in our humble kitchen with utmost passion and love. On Weekdays, select ANY items from ..",
+        "expiray": 12,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 82,
+        "image": "https://www.kindmeal.my/photos/deal/6/626-3611-l.jpg",
+        "desc": "Ssihat Kafe —  Melaka",
+        "subDesc": "Ignite your taste buds with indian spices and flavours at Melaka's only Indian fully Vegetarian Cafe. We humbly welcome you and y..",   
+        "expiray": 5,
+        "off":"10% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 83,
+        "image": "https://www.kindmeal.my/photos/deal/4/403-1390-l.jpg",
+        "desc": "Juve Wellness Puchong —  Puchong, Selangor",
+        "subDesc": "Select from Ala Carte meal items from the menu, served with a cup of Wellness Tea! Featured food menu items include: Juve Four Se..",   
+        "expiray": 5,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg_disabled.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk_disabled.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      },
+      {
+        "id": 84,
+        "image": "https://www.kindmeal.my/photos/deal/5/529-2478-l.jpg",
+        "desc": "Croutons Cafe —  Seri Kembangan, Selangor",
+        "subDesc": "Croutons brings you a sumptuous variety of international cuisines. Indulge in any of the meat-free items from our menu below: • .",   
+        "expiray": 13,
+        "off":"20% Off",
+        "containsegg":"https://www.kindmeal.my/images/icon_egg.png",
+        "milk":"https://www.kindmeal.my/images/icon_milk.png",
+        "alcohol":"https://www.kindmeal.my/images/icon_alcohol_disabled.png"
+      }
+    
+    ],
+    "kindmoments":[
+        {
+            "id":1,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":2,
+            "avatar":"https://www.kindmeal.my/photos/member/10/10072-s.jpg",
+            "username":"WongEeLynn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24333-46758-m.jpg",
+            "desc":"Celebrated the news of you-know-who’s conviction on Tuesday with a Burger Ulam Kampung at Hijau KL. I would never have thought of .. "
+        },
+        {
+            "id":3,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":4,
+            "avatar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "username":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "date":"Aug 5th 2021",
+            "img":"https://www.kindmeal.my/photos/moment/24/24297-46656-m.jpg",
+            "desc":"素叉烧鸡饭 Vegetarian Char Siew Chicken Rice"
+        },
+        {
+            "id":5,
+            "avatar":"https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+            "username":"VyVian",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24309-46678-m.jpg",
+            "desc":"Their food is nice! Especially 桂花豆腐！"
+        },
+        {
+            "id":6,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":7,
+            "avatar":"https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+            "username":"ChewLengLeng",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24238-46452-m.jpg",
+            "desc":"单座RM15.00起 Pu Re Space 朴乐空间 Add : No.2, Jalan Limau Besar, o"
+        },
+        {
+            "id":8,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":9,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24645-s.jpg",
+            "username":"EveWong",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24300-46663-m.jpg",
+            "desc":"They serve real real real good & delicious food with reasonable price. I love their Mongolian rice & Burger 😋"
+        },
+        {
+            "id":10,
+            "avatar":"https://www.kindmeal.my/photos/member/22/22429-s.jpg",
+            "username":"WeeChian",
+            "date":"Aug 20th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24258-46511-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":11,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":12,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":13,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+
+        {
+            "id":14,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        }, 
+        {
+            "id":15,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":16,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":17,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":18,
+            "avatar":"https://www.kindmeal.my/photos/member/10/10072-s.jpg",
+            "username":"WongEeLynn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24333-46758-m.jpg",
+            "desc":"Celebrated the news of you-know-who’s conviction on Tuesday with a Burger Ulam Kampung at Hijau KL. I would never have thought of .. "
+        },
+        {
+            "id":19,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":20,
+            "avatar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "username":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "date":"Aug 5th 2021",
+            "img":"https://www.kindmeal.my/photos/moment/24/24297-46656-m.jpg",
+            "desc":"素叉烧鸡饭 Vegetarian Char Siew Chicken Rice"
+        },
+        {
+            "id":21,
+            "avatar":"https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+            "username":"VyVian",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24309-46678-m.jpg",
+            "desc":"Their food is nice! Especially 桂花豆腐！"
+        },
+        {
+            "id":22,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":23,
+            "avatar":"https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+            "username":"ChewLengLeng",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24238-46452-m.jpg",
+            "desc":"单座RM15.00起 Pu Re Space 朴乐空间 Add : No.2, Jalan Limau Besar, o"
+        },
+        {
+            "id":24,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":25,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24645-s.jpg",
+            "username":"EveWong",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24300-46663-m.jpg",
+            "desc":"They serve real real real good & delicious food with reasonable price. I love their Mongolian rice & Burger 😋"
+        },
+        {
+            "id":26,
+            "avatar":"https://www.kindmeal.my/photos/member/22/22429-s.jpg",
+            "username":"WeeChian",
+            "date":"Aug 20th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24258-46511-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":27,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":28,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":29,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+
+        {
+            "id":30,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        }, 
+        {
+            "id":31,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":32,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":33,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":34,
+            "avatar":"https://www.kindmeal.my/photos/member/10/10072-s.jpg",
+            "username":"WongEeLynn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24333-46758-m.jpg",
+            "desc":"Celebrated the news of you-know-who’s conviction on Tuesday with a Burger Ulam Kampung at Hijau KL. I would never have thought of .. "
+        },
+        {
+            "id":35,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":36,
+            "avatar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "username":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "date":"Aug 5th 2021",
+            "img":"https://www.kindmeal.my/photos/moment/24/24297-46656-m.jpg",
+            "desc":"素叉烧鸡饭 Vegetarian Char Siew Chicken Rice"
+        },
+        {
+            "id":37,
+            "avatar":"https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+            "username":"VyVian",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24309-46678-m.jpg",
+            "desc":"Their food is nice! Especially 桂花豆腐！"
+        },
+        {
+            "id":38,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":39,
+            "avatar":"https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+            "username":"ChewLengLeng",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24238-46452-m.jpg",
+            "desc":"单座RM15.00起 Pu Re Space 朴乐空间 Add : No.2, Jalan Limau Besar, o"
+        },
+        {
+            "id":40,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":41,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24645-s.jpg",
+            "username":"EveWong",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24300-46663-m.jpg",
+            "desc":"They serve real real real good & delicious food with reasonable price. I love their Mongolian rice & Burger 😋"
+        },
+        {
+            "id":42,
+            "avatar":"https://www.kindmeal.my/photos/member/22/22429-s.jpg",
+            "username":"WeeChian",
+            "date":"Aug 20th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24258-46511-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":43,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":44,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":45,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+
+        {
+            "id":46,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        }, 
+        {
+            "id":47,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":48,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":49,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":50,
+            "avatar":"https://www.kindmeal.my/photos/member/10/10072-s.jpg",
+            "username":"WongEeLynn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24333-46758-m.jpg",
+            "desc":"Celebrated the news of you-know-who’s conviction on Tuesday with a Burger Ulam Kampung at Hijau KL. I would never have thought of .. "
+        },
+        {
+            "id":51,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":52,
+            "avatar":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "username":"https://www.kindmeal.my/photos/member/25/25560-s.jpg",
+            "date":"Aug 5th 2021",
+            "img":"https://www.kindmeal.my/photos/moment/24/24297-46656-m.jpg",
+            "desc":"素叉烧鸡饭 Vegetarian Char Siew Chicken Rice"
+        },
+        {
+            "id":53,
+            "avatar":"https://www.kindmeal.my/photos/member/13/13208-s.jpg",
+            "username":"VyVian",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24309-46678-m.jpg",
+            "desc":"Their food is nice! Especially 桂花豆腐！"
+        },
+        {
+            "id":54,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":55,
+            "avatar":"https://www.kindmeal.my/photos/member/11/11540-s.jpg",
+            "username":"ChewLengLeng",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24238-46452-m.jpg",
+            "desc":"单座RM15.00起 Pu Re Space 朴乐空间 Add : No.2, Jalan Limau Besar, o"
+        },
+        {
+            "id":56,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        },
+        {
+            "id":57,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24645-s.jpg",
+            "username":"EveWong",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24300-46663-m.jpg",
+            "desc":"They serve real real real good & delicious food with reasonable price. I love their Mongolian rice & Burger 😋"
+        },
+        {
+            "id":58,
+            "avatar":"https://www.kindmeal.my/photos/member/22/22429-s.jpg",
+            "username":"WeeChian",
+            "date":"Aug 20th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24258-46511-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":59,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":60,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":61,
+            "avatar":"https://www.kindmeal.my/photos/member/24/24580-s.jpg",
+            "username":"ChinMinNg",
+            "date":"Aug 24th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24313-46694-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+
+        {
+            "id":62,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14287-s.jpg",
+            "username":"Bvelyn",
+            "date":"Aug 25th 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24291-46633-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        }, 
+        {
+            "id":63,
+            "avatar":"https://www.kindmeal.my/photos/member/35/35238-s.jpg",
+            "username":"CindyChang",
+            "date":"Aug 23rd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24292-46641-m.jpg",
+            "desc":"薑黃糙米飯+綜合芽 清炒芥蘭花 燜番茄馬鈴薯杏鮑菇 😊"
+        },
+        {
+            "id":64,
+            "avatar":"https://www.kindmeal.my/photos/member/23/23028-s.jpg",
+            "username":"YinYinBoey",
+            "date":"Aug 22nd 2022",
+            "img":"https://www.kindmeal.my/photos/moment/24/24301-46664-m.jpg",
+            "desc":"Wanted to have Nasi Kandar but they didn’t have it today so .."
+        }
+    ],
+    "recipes":[
+        {
+            "id":1,
+            "avatar":"https://www.kindmeal.my/photos/member/0/6-s.jpg",
+            "name":"KindMealChef",
+            "img":"https://www.kindmeal.my/photos/recipe/122/122732-19073-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":2,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14169-s.jpg",
+            "name":"MayNg",
+            "img":"https://www.kindmeal.my/photos/recipe/1000/1000009-19416-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":3,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039475-58908-m.jpg",
+            "hrs":"25 min"
+        },
+        {
+            "id":4,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039471-58904-m.jpg",
+            "hrs":"55 min"
+        },
+        {
+            "id":5,
+            "avatar":"https://www.kindmeal.my/photos/member/29/29512-s.jpg",
+            "name":"loveearthorganic",
+            "img":"https://www.kindmeal.my/photos/recipe/1000/1000016-19430-m.jpg",
+            "hrs":"45 min"
+        },
+
+        {
+            "id":6,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"4 hrs 25 min"
+        },
+        {
+            "id":7,
+            "avatar":"https://www.kindmeal.my/photos/member/38/38334-s.jpg",
+            "name":"shamanth",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039453-58877-m.jpg",
+            "hrs":"30 min"
+        },
+        {
+            "id":8,
+            "avatar":"https://www.kindmeal.my/photos/member/0/6-s.jpg",
+            "name":"KindMealChef",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":9,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"4 hrs 25 min"
+        },
+        {
+            "id":10,
+            "avatar":"https://www.kindmeal.my/photos/member/0/6-s.jpg",
+            "name":"KindMealChef",
+            "img":"https://www.kindmeal.my/photos/recipe/122/122732-19073-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":11,
+            "avatar":"https://www.kindmeal.my/photos/member/14/14169-s.jpg",
+            "name":"MayNg",
+            "img":"https://www.kindmeal.my/photos/recipe/1000/1000009-19416-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":12,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039475-58908-m.jpg",
+            "hrs":"25 min"
+        },
+        {
+            "id":13,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039471-58904-m.jpg",
+            "hrs":"55 min"
+        },
+        {
+            "id":14,
+            "avatar":"https://www.kindmeal.my/photos/member/29/29512-s.jpg",
+            "name":"loveearthorganic",
+            "img":"https://www.kindmeal.my/photos/recipe/1000/1000016-19430-m.jpg",
+            "hrs":"45 min"
+        },
+
+        {
+            "id":15,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"4 hrs 25 min"
+        },
+        {
+            "id":16,
+            "avatar":"https://www.kindmeal.my/photos/member/38/38334-s.jpg",
+            "name":"shamanth",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039453-58877-m.jpg",
+            "hrs":"30 min"
+        },
+        {
+            "id":17,
+            "avatar":"https://www.kindmeal.my/photos/member/0/6-s.jpg",
+            "name":"KindMealChef",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":18,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"4 hrs 25 min"
+        },
+        {
+            "id":19,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039471-58904-m.jpg",
+            "hrs":"55 min"
+        },
+        {
+            "id":20,
+            "avatar":"https://www.kindmeal.my/photos/member/29/29512-s.jpg",
+            "name":"loveearthorganic",
+            "img":"https://www.kindmeal.my/photos/recipe/1000/1000016-19430-m.jpg",
+            "hrs":"45 min"
+        },
+
+        {
+            "id":21,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"4 hrs 25 min"
+        },
+        {
+            "id":22,
+            "avatar":"https://www.kindmeal.my/photos/member/38/38334-s.jpg",
+            "name":"shamanth",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039453-58877-m.jpg",
+            "hrs":"30 min"
+        },
+        {
+            "id":23,
+            "avatar":"https://www.kindmeal.my/photos/member/0/6-s.jpg",
+            "name":"KindMealChef",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"3 Hrs"
+        },
+        {
+            "id":24,
+            "avatar":"https://www.kindmeal.my/images/default_male-s.jpg",
+            "name":"MyWeekendPlan",
+            "img":"https://www.kindmeal.my/photos/recipe/1039/1039472-58905-m.jpg",
+            "hrs":"4 hrs 25 min"
+        },
+        {
+            "id":25,
+            "avatar":"https://www.kindmeal.my/photos/member/0/6-s.jpg",
+            "name":"KindMealChef",
+            "img":"https://www.kindmeal.my/photos/recipe/122/122732-19073-m.jpg",
+            "hrs":"3 Hrs"
+        }
+    ],
+    "articles":[
+        {
+            "id":1,
+            "img":"https://www.kindmeal.my/photos/article/20/20043-l.jpg",
+            "heading":"Yishensu Groceries, Ipoh Offers You A Wide Range Of Healthy, Nutritious And Tast..",
+            "deasc":"Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! Explore Yishensu's exclusive range of groceries, as well as meat-free retail products from popular brands. Enjoy 10% off at their Ipoh store:"
+        },
+        {
+            "id":2,
+            "img":"https://www.kindmeal.my/photos/article/20/20038-l.jpg",
+            "heading":"The Top 7 Smartest Animals",
+            "deasc":"Animals are really smart! 😍"
+        },
+        {
+            "id":3,
+            "img":"https://www.kindmeal.my/photos/article/20/20037-l.jpg",
+            "heading":"Creamy Hasselback Potatoes",
+            "deasc":"Looking for interesting creamy plant-based potatoes recipes?"
+        },
+        {
+            "id":4,
+            "img":"https://www.kindmeal.my/photos/article/20/20034-l.jpg",
+            "heading":"Busy Beaver Delivers Lettuce To Zoo Friends",
+            "deasc":"Filbert the beaver encourages his friends to eat more vege!"
+        },
+        {
+            "id":5,
+            "img":"https://www.kindmeal.my/photos/article/20/20041-l.jpg",
+            "heading":"The Ultimate Guide To Going Vegan In A Non-vegan Household - Animal Outlook",
+            "deasc":"Want to go vegan, but your loved ones are big meat eaters? Here’s a few tips and strategies to make your switch to veganism as smooth and havoc-free as possible, and most importantly, enjoyable. Read our new blog for more:"
+        },
+        {
+            "id":6,
+            "img":"https://www.kindmeal.my/photos/article/20/20040-l.jpg",
+            "heading":"Undercover Investigation At Live Markets In Bay Area Reveals Hidden Abuse And Cruelty",
+            "deasc":"Right across the San Francisco Bay Area are dozens of live markets where animals are sold live or slaughtered and sold right to customers. Our undercover investigators visited 18 live markers in San Francisco, San Jose, and Oakland and were shocked by what they saw. Read more from One Green Planet:.."
+        },
+
+        {
+            "id":7,
+            "img":"https://www.kindmeal.my/photos/article/20/20039-l.jpg",
+            "heading":"In The First 6 Months Of 2022, You Helped Impact Over163.9 Million Animals. Over..",
+            "deasc":"In the first 6 months of 2022, you helped impact over❗️163.9 million animals❗️ 💙Over 50,000 people showed their support to end the sale of foie gras in the U.S. 🐷More than 32,000 people were inspired to go plant-based with the help of LoveVeg.com. 🐥Over 50 million farmed animals are now protecte.."
+        },
+        {
+            "id":8,
+            "img":"https://www.kindmeal.my/photos/article/20/20036-l.jpg",
+            "heading":"All Animals Deserve To Be Happy. Let''s Continue To Create A Loving World For Ani..",
+            "deasc":"All animals deserve to be happy. Let's continue to create a loving world for animals everywhere. #animalrights #GoVegan"
+        },
+        {
+            "id":9,
+            "img":"https://www.kindmeal.my/photos/article/20/20035-l.jpg",
+            "heading":"Every Person Who Observes Meatless Mondays Reduces Their Carbon Footprint By Eig..",
+            "deasc":"Every person who observes Meatless Mondays reduces their carbon footprint by eight pounds per day - the same impact as not driving for two days - and also saves 28 land and 175 aquatic animals per year. Read more about how eating sustainably can combat #climatechange:"
+        },
+
+        {
+            "id":10,
+            "img":"https://www.kindmeal.my/photos/article/20/20024-l.jpg",
+            "heading":"Studies Have Shown That Plant-based Foods Have Much Less Of A Negative Climate I..",
+            "deasc":"Studies have shown that plant-based foods have much less of a negative climate impact compared to meat and animal products. Animal agriculture is both unethical and unsustainable. #goveganfortheplanet #goveganfortheanimals Learn more about the way animal products negatively impact the planet:"
+        },
+        {
+            "id":11,
+            "img":"https://www.kindmeal.my/photos/article/20/20043-l.jpg",
+            "heading":"Yishensu Groceries, Ipoh Offers You A Wide Range Of Healthy, Nutritious And Tast..",
+            "deasc":"Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! Explore Yishensu's exclusive range of groceries, as well as meat-free retail products from popular brands. Enjoy 10% off at their Ipoh store:"
+        },
+        {
+            "id":12,
+            "img":"https://www.kindmeal.my/photos/article/20/20038-l.jpg",
+            "heading":"The Top 7 Smartest Animals",
+            "deasc":"Animals are really smart! 😍"
+        },
+        {
+            "id":13,
+            "img":"https://www.kindmeal.my/photos/article/20/20037-l.jpg",
+            "heading":"Creamy Hasselback Potatoes",
+            "deasc":"Looking for interesting creamy plant-based potatoes recipes?"
+        },
+        {
+            "id":14,
+            "img":"https://www.kindmeal.my/photos/article/20/20034-l.jpg",
+            "heading":"Busy Beaver Delivers Lettuce To Zoo Friends",
+            "deasc":"Filbert the beaver encourages his friends to eat more vege!"
+        },
+        {
+            "id":15,
+            "img":"https://www.kindmeal.my/photos/article/20/20041-l.jpg",
+            "heading":"The Ultimate Guide To Going Vegan In A Non-vegan Household - Animal Outlook",
+            "deasc":"Want to go vegan, but your loved ones are big meat eaters? Here’s a few tips and strategies to make your switch to veganism as smooth and havoc-free as possible, and most importantly, enjoyable. Read our new blog for more:"
+        },
+        {
+            "id":16,
+            "img":"https://www.kindmeal.my/photos/article/20/20040-l.jpg",
+            "heading":"Undercover Investigation At Live Markets In Bay Area Reveals Hidden Abuse And Cruelty",
+            "deasc":"Right across the San Francisco Bay Area are dozens of live markets where animals are sold live or slaughtered and sold right to customers. Our undercover investigators visited 18 live markers in San Francisco, San Jose, and Oakland and were shocked by what they saw. Read more from One Green Planet:.."
+        },
+
+        {
+            "id":17,
+            "img":"https://www.kindmeal.my/photos/article/20/20039-l.jpg",
+            "heading":"In The First 6 Months Of 2022, You Helped Impact Over163.9 Million Animals. Over..",
+            "deasc":"In the first 6 months of 2022, you helped impact over❗️163.9 million animals❗️ 💙Over 50,000 people showed their support to end the sale of foie gras in the U.S. 🐷More than 32,000 people were inspired to go plant-based with the help of LoveVeg.com. 🐥Over 50 million farmed animals are now protecte.."
+        },
+        {
+            "id":18,
+            "img":"https://www.kindmeal.my/photos/article/20/20036-l.jpg",
+            "heading":"All Animals Deserve To Be Happy. Let''s Continue To Create A Loving World For Ani..",
+            "deasc":"All animals deserve to be happy. Let's continue to create a loving world for animals everywhere. #animalrights #GoVegan"
+        },
+        {
+            "id":19,
+            "img":"https://www.kindmeal.my/photos/article/20/20035-l.jpg",
+            "heading":"Every Person Who Observes Meatless Mondays Reduces Their Carbon Footprint By Eig..",
+            "deasc":"Every person who observes Meatless Mondays reduces their carbon footprint by eight pounds per day - the same impact as not driving for two days - and also saves 28 land and 175 aquatic animals per year. Read more about how eating sustainably can combat #climatechange:"
+        },
+
+        {
+            "id":20,
+            "img":"https://www.kindmeal.my/photos/article/20/20024-l.jpg",
+            "heading":"Studies Have Shown That Plant-based Foods Have Much Less Of A Negative Climate I..",
+            "deasc":"Studies have shown that plant-based foods have much less of a negative climate impact compared to meat and animal products. Animal agriculture is both unethical and unsustainable. #goveganfortheplanet #goveganfortheanimals Learn more about the way animal products negatively impact the planet:"
+        },
+        {
+            "id":21,
+            "img":"https://www.kindmeal.my/photos/article/20/20043-l.jpg",
+            "heading":"Yishensu Groceries, Ipoh Offers You A Wide Range Of Healthy, Nutritious And Tast..",
+            "deasc":"Yishensu Groceries, Ipoh offers you a wide range of healthy, nutritious and tasty vegetarian products! Explore Yishensu's exclusive range of groceries, as well as meat-free retail products from popular brands. Enjoy 10% off at their Ipoh store:"
+        },
+        {
+            "id":22,
+            "img":"https://www.kindmeal.my/photos/article/20/20038-l.jpg",
+            "heading":"The Top 7 Smartest Animals",
+            "deasc":"Animals are really smart! 😍"
+        },
+        {
+            "id":23,
+            "img":"https://www.kindmeal.my/photos/article/20/20037-l.jpg",
+            "heading":"Creamy Hasselback Potatoes",
+            "deasc":"Looking for interesting creamy plant-based potatoes recipes?"
+        },
+        {
+            "id":24,
+            "img":"https://www.kindmeal.my/photos/article/20/20034-l.jpg",
+            "heading":"Busy Beaver Delivers Lettuce To Zoo Friends",
+            "deasc":"Filbert the beaver encourages his friends to eat more vege!"
+        },
+        {
+            "id":25,
+            "img":"https://www.kindmeal.my/photos/article/20/20041-l.jpg",
+            "heading":"The Ultimate Guide To Going Vegan In A Non-vegan Household - Animal Outlook",
+            "deasc":"Want to go vegan, but your loved ones are big meat eaters? Here’s a few tips and strategies to make your switch to veganism as smooth and havoc-free as possible, and most importantly, enjoyable. Read our new blog for more:"
+        },
+        {
+            "id":26,
+            "img":"https://www.kindmeal.my/photos/article/20/20040-l.jpg",
+            "heading":"Undercover Investigation At Live Markets In Bay Area Reveals Hidden Abuse And Cruelty",
+            "deasc":"Right across the San Francisco Bay Area are dozens of live markets where animals are sold live or slaughtered and sold right to customers. Our undercover investigators visited 18 live markers in San Francisco, San Jose, and Oakland and were shocked by what they saw. Read more from One Green Planet:.."
+        },
+
+        {
+            "id":27,
+            "img":"https://www.kindmeal.my/photos/article/20/20039-l.jpg",
+            "heading":"In The First 6 Months Of 2022, You Helped Impact Over163.9 Million Animals. Over..",
+            "deasc":"In the first 6 months of 2022, you helped impact over❗️163.9 million animals❗️ 💙Over 50,000 people showed their support to end the sale of foie gras in the U.S. 🐷More than 32,000 people were inspired to go plant-based with the help of LoveVeg.com. 🐥Over 50 million farmed animals are now protecte.."
+        },
+        {
+            "id":28,
+            "img":"https://www.kindmeal.my/photos/article/20/20036-l.jpg",
+            "heading":"All Animals Deserve To Be Happy. Let''s Continue To Create A Loving World For Ani..",
+            "deasc":"All animals deserve to be happy. Let's continue to create a loving world for animals everywhere. #animalrights #GoVegan"
+        },
+        {
+            "id":29,
+            "img":"https://www.kindmeal.my/photos/article/20/20035-l.jpg",
+            "heading":"Every Person Who Observes Meatless Mondays Reduces Their Carbon Footprint By Eig..",
+            "deasc":"Every person who observes Meatless Mondays reduces their carbon footprint by eight pounds per day - the same impact as not driving for two days - and also saves 28 land and 175 aquatic animals per year. Read more about how eating sustainably can combat #climatechange:"
+        },
+
+        {
+            "id":30,
+            "img":"https://www.kindmeal.my/photos/article/20/20024-l.jpg",
+            "heading":"Studies Have Shown That Plant-based Foods Have Much Less Of A Negative Climate I..",
+            "deasc":"Studies have shown that plant-based foods have much less of a negative climate impact compared to meat and animal products. Animal agriculture is both unethical and unsustainable. #goveganfortheplanet #goveganfortheanimals Learn more about the way animal products negatively impact the planet:"
+        }
+    ]
+  }
